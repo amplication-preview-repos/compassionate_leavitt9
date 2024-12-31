@@ -1,0 +1,152 @@
+[
+  {
+    "role": "admin",
+    "resource": "Authentication",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "member",
+    "resource": "Authentication",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "service",
+    "resource": "Authentication",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "trader",
+    "resource": "Authentication",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Authentication",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Authentication",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "member",
+    "resource": "Authentication",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "service",
+    "resource": "Authentication",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "trader",
+    "resource": "Authentication",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Authentication",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Authentication",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "member",
+    "resource": "Authentication",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "service",
+    "resource": "Authentication",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "trader",
+    "resource": "Authentication",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Authentication",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Authentication",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "member",
+    "resource": "Authentication",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "service",
+    "resource": "Authentication",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "trader",
+    "resource": "Authentication",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Authentication",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Authentication",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "member",
+    "resource": "Authentication",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "service",
+    "resource": "Authentication",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "trader",
+    "resource": "Authentication",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Authentication",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
